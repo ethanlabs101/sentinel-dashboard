@@ -8,3 +8,13 @@
 
 ## Sentinel Dashboard is a lightweight terminal-based monitoring utility designed for live Linux telemetry and security event visibility.
 
+---
+
+# 🚀 Features
+- Real-time journal monitoring
+- Authentication event tracking
+- Service and system anomaly visibility
+- Modular event ingestion architecture
+- Lightweight TUI dashboard
+- Built for Linux servers
+
