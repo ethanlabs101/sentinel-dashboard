@@ -5,7 +5,6 @@
 ![License](https://img.shields.io/badge/license-MIT-red)
 ![Linux](https://img.shields.io/badge/platform-Linux-red)
 ![Version](https://img.shields.io/badge/version-0.0.1-red)
-![Status](https://img.shields.io/badge/status-active-success)
 
 ## Sentinel Dashboard is a lightweight terminal-based monitoring utility designed for live Linux telemetry and security event visibility.
 
