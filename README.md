@@ -1,6 +1,7 @@
 # log-sentinel
 A focused Linux auth log analyzer.
 
+```html
  d8b                                                          d8,                  d8b 
  88P                                                   d8P   `8P                   88P 
 d88                                                 d888888P                      d88  
@@ -10,4 +11,5 @@ d88                                                 d888888P                    
   88b`?8888P'`?88P'`88b    `?888P' `?888P'd88'   88b  `?8b  d88' d88'   88b`?888P'  88b
                     )88                                                                
                    ,88P                                                                
-               `?8888P                                                                 
+               `?8888P
+```
