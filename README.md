@@ -7,7 +7,7 @@
 ![Linux](https://img.shields.io/badge/platform-Linux-red)
 ![Version](https://img.shields.io/badge/version-0.0.1-red)
 
-## Sentinel Dashboard is a lightweight terminal-based monitoring utility designed for live Linux telemetry and security event visibility.
+## Sentinel Dashboard is a real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators. It tails the journal and syslog and turns SSH logins, sudo activity, failed services, firewall/network blocks, kernel warnings, system anomalies, and USB events into a structured, severity-scored list stored locally in SQLite and shown in a live dashboard. A simple, smart way to monitor your system and catch issues early—no browser required.
 
 ---
 
