@@ -7,6 +7,8 @@
 ![Linux](https://img.shields.io/badge/platform-Linux-red)
 ![Version](https://img.shields.io/badge/version-0.0.1-red)
 
+***Coming Soon!***
+
 
 ## ***Sentinel Dashboard is a real-time, terminal-native security monitor for Linux, built for servers, homelabs, and SSH-first operators.*** 
 
