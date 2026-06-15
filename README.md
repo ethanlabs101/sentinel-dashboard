@@ -15,6 +15,7 @@
 
 ---
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=475&size=27&pause=1000&color=F71313&width=435&lines=%F0%9F%9A%80+Features%3A)](https://git.io/typing-svg)
 
 - Real-time journal monitoring
